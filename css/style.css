@@ -9791,3 +9791,73 @@ body.nancys-advice {
 }
 
 /***** END Nancy's Advice *****/
+
+/***** Teresa's Advice *****/
+body.teresakuziak-advice{
+  background-color: #B4A6A4;
+  font-family: 'Roboto', sans-serif;
+  color: #263D54;
+}
+
+.teresakuziak-advice header a {
+  padding: 100px 0px 20px 20px;
+  color: #263D54;
+}
+
+.teresakuziak-advice section {
+  width: 900px;
+  padding-left: 400px;
+}
+
+.teresakuziak-advice h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 40px;
+  width: 1200px;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+.teresakuziak-advice h4 {
+  font-family: 'Roboto', sans-serif;
+  color: #263D54;
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 20px;
+  padding: 100px 0px 60px 40px;
+  text-align: left;
+}
+
+div.teresak-list {
+  width: 900px;
+  margin: 20px
+}
+
+.teresakuziak-advice ol {
+  color: #ccc;
+  list-style-type: none;
+
+}
+
+.teresakuziak-advice ol li {
+  position: relative;
+  font: bold italic 45px/1.5 Helvetica, Verdana, sans-serif;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+.teresakuziak-advice li p {
+  font: 14px/1.5 Helvetica, sans-serif;
+  padding-left: 60px;
+  color: #555;
+  text-align: left;
+}
+
+.teresakuziak-advice span {
+  color: #263D54;
+  position: absolute;
+}
+
+.teresakuziak-advice p {
+  color: #263D54;
+}
